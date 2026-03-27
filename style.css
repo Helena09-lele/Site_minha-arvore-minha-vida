@@ -28,7 +28,6 @@ header div a {
             color: rgb(7, 82, 7); /*mudar para a cor verde escuro*/
             transition: color 500ms;/*e fazer uma transição de cor que dura 500ms*/
         }
-        
     #box{
        text-align: center;/*Alinhamento no meio do texto*/
        padding: 32px; /*Espaçamento entre o texto e a borda da caixa*/
